@@ -1,0 +1,24 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "test for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkkkk973/first.git"
+  },
+  "author": "kishan raval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkkkk973/first/issues"
+  },
+  "homepage": "https://github.com/kkkkk973/first#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "node-fetch": "^2.6.6"
+  },
+  "type": "module
+}
